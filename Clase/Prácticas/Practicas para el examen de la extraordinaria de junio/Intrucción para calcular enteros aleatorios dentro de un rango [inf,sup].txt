@@ -1,0 +1,7 @@
+import random
+
+
+random.randint(min,max)
+
+
+tanto el "min" como el "max" son incluidos como posibles valores

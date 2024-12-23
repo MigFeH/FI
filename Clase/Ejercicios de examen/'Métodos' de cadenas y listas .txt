@@ -1,0 +1,42 @@
+Funciones, operadores y métodos de uso frecuente con cadenas
+
+Funciones
+
+len()
+str()
+chr()
+ord()
+max()
+min()
+list()
+sorted()
+
+Operadores
+
++
+*
+in
+[a]  (si es negativo indica empezando por el final, cero para el primer elemento)
+[a:b]
+[a:b:c]
+[a:]
+[:b]
+[:]
+[::2]
+[1::2]
+[::-1]
+> >= < <= == !=
+
+Instrucciones
+
+bucle for iterable: for caracter in cadena
+Métodos
+
+.split()	divide a partir del carácter pasado por parámetro
+.join()		
+.find()
+.count()
+.strip()
+.lstrip()
+.rstrip()
+.replace(,)

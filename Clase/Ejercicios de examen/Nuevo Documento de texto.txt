@@ -1,0 +1,9 @@
+Ejercicio de examen.
+
+Diseñe y escriba una función en Python que reciba como parámetro una lista de números y modifique esa misma lista eliminando los valores negativos.
+
+Por ejemplo, si recibe una lista que vale [1,-6,23,-16,-7,-7,-7,4,2,-5] debe modificarla de forma que quede en [1,23,4,2].
+
+Obsérvese que la función no debe devolver nada.
+
+Hacerlo y luego mirar y estudiar con detalle cada una de las 5 soluciones propuestas.
