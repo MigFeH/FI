@@ -1,0 +1,6 @@
+import random
+
+round(inf + (sup - inf) * random.random(),2)
+
+
+tanto el "inf" como el "sup" son incluidos como posibles valores
